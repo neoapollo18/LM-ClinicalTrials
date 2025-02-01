@@ -1,0 +1,41 @@
+*.icloud
+trial_data.csv
+trial_data1 2.csv
+trial_data2.csv
+trial_data3.csv
+trial_data4.csv
+trial_data5.csv
+trial_data6.csv
+trial_data8.csv
+trials.csv
+testing.csv
+Backup
+Data
+AllAPIXML
+__pycache__
+glove.6B.100d.txt
+glove.6B.100d.word2vec.txt
+best_model.pt
+Projects.code-workspace
+.DS_Store
+tempCodeRunnerFile.py
+.vscode
+AllPublicXML
+wordrelation.py
+multi-node training.py
+ICTRPFullExport-885185-09-07-2023.csv
+training_data.py
+Backup
+DataImaging
+filter_words.txt
+test.txt
+GPT_Trials
+extract_data.py
+Unique Identifiers
+finance_data.py
+trialdata.csv
+newfile.py
+wandb
+accesstoken
+makingtime-seriesdata.py
+pytorch_model.bin
